@@ -1,10 +1,10 @@
 # WeatherApp
 
-## Used Api 
-* darksky.net
+## Used Api Link
+ * [DarkSky](https://darksky.net)
 
 ### CORS for api
-* cors-anywhere.herokuapp.com
+* [Cors](https://cors-anywhere.herokuapp.com)
 
 
 #### Created with 
